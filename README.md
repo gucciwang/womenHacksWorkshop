@@ -35,15 +35,19 @@ Here's step by step of what to do before we start!
 8. Let's install our packages! go ahead and run 
     
     `$ conda install --yes --file requirements.txt` It will again prompt you to verify some package dependencies and whatnot, type `y` and hit enter.
+
+9. Do this for some safekeeping stuff just trust me on this: 
     
-9. We're good to go! Let's open up a jupyter notebook. Run this: 
+    `$ export KMP_DUPLICATE_LIB_OK=TRUE`
+    
+10. We're good to go! Let's open up a jupyter notebook. Run this: 
 
     `$ jupyter notebook`
     
-10. Let's create a new notebook! 
+11. Let's create a new notebook! 
 
     ![jupyter](images/jupyter.png "jupyter")
     
-11. Now let's have some fun :) 
+12. Now let's have some fun :) 
     
     
