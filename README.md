@@ -36,6 +36,14 @@ Here's step by step of what to do before we start!
 8. Let's install our packages! go ahead and run 
     
     `$ conda install --yes --file requirements.txt` It will again prompt you to verify some package dependencies and whatnot, type `y` and hit enter.
+    
+    NOTE: If this step doesn't work at all, run this: 
+    
+    ```
+    $ conda install keras
+    $ conda install matplotlib
+    $ conda install jupyter
+    ```
 
 9. Do this for some safekeeping stuff just trust me on this: 
     
