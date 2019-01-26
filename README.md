@@ -3,12 +3,13 @@ Hosted on behalf by Data Science UCSB
 
 Welcome to the Deep Learning Workshop! Today we will be 
 be taking you guys through a quick intro with the MNIST dataset. 
+You can find the slide deck [here](https://docs.google.com/presentation/d/1VxCSgp-6JI9b35YacHL0Pr-_vQ1DMCZYVZ0CpKr5L14/edit#slide=id.g4dc527decf_0_230 "slides"). 
 
 Here's step by step of what to do before we start! 
 
-1. Download the correct version of Anaconda Python 3.6 here: https://www.anaconda.com/download/#macos
+1. Download the correct version of Anaconda Python 3.6 [here](https://www.anaconda.com/download/#macos).
 
-2. Install it and go through the steps 
+2. Install it and go through the steps. 
 
 3. Once you've completed the installation, open up terminal and execute 
 `$ python`and check that on the top it says `Anaconda` like so: 
